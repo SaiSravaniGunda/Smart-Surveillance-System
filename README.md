@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 Or manually install:
 ```bash
-pip install opencv-python numpy telepot twilio RPi.GPIO picamera imutils python-dotenv Pillow scipy requests opencv-contrib-python
+pip install opencv-python numpy telepot twilio RPi.GPIO picamera imutils python-dotenv
 ```
 
 ## Setup Instructions
@@ -77,5 +77,4 @@ git push origin main
 - **Live Video Streaming**: Add a feature to stream real-time video.
 - **Email Alerts**: Send email notifications along with SMS and Telegram.
 - **AI-Based Intruder Recognition**: Train a custom model to recognize known and unknown individuals.
-
 
