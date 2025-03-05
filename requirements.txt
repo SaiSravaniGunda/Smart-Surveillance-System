@@ -1,0 +1,8 @@
+opencv-python
+numpy
+telepot
+twilio
+RPi.GPIO
+picamera
+imutils
+python-dotenv
